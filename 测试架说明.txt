@@ -1,0 +1,8 @@
+﻿0.91寸OLED
+SDA-A4   SCL-A5
+
+超声波
+Trig-D3  Echo-D2 中断号是0
+
+舵机	D13	
+电位器	A0
